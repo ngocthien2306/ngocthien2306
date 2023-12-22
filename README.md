@@ -1,16 +1,43 @@
-### Hi there 👋
+[Nguyen Ngoc Thien]
+🚀 AI Engineer at I-Soft | 🎓 Bachelor of Science in Software Engineering at UTE
 
-<!--
-**ngocthien2306/ngocthien2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools:
 
-Here are some ideas to get you started:
+Python | TensorFlow | PyTorch
+Machine Learning | Deep Learning
+Fast API | ASP.NET API
+Angular | Devextreme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Professional Experience:
+
+AI Engineer at I-Soft [Current Position]
+[Brief description of your role and responsibilities]
+[Highlight any notable projects or achievements]
+🌐 Online Presence:
+
+LinkedIn
+Twitter
+Personal Website/Blog
+🌱 Currently Learning:
+
+[Any current courses or technologies you are learning]
+💬 Let's Connect:
+
+📧 Email: ngocthien.dev23@gmail.com
+🤝 Open to collaboration and discussions on AI, machine learning, and related topics.
+📈 GitHub Stats:
+
+📚 Featured Repositories:
+
+Project 1: [Brief description]
+Project 2: [Brief description]
+Project 3: [Brief description]
+🚀 Passionate about:
+
+[Mention any specific areas of interest or passion within AI]
+📝 Read my Latest Blog Post:
+
+[Link to your latest blog post, if applicable]
+👨‍🎓 Education:
+
+Bachelor of Science in Software Engineering, UTE
